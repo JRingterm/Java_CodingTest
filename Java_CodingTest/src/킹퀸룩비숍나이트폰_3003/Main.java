@@ -38,5 +38,6 @@ public class Main {
             System.out.print(basic[i] - Integer.parseInt(st.nextToken()));
             System.out.print(" ");
         }
+        br.close();
     }
 }

@@ -38,5 +38,6 @@ public class Main {
         else{
             System.out.println(alpha);
         }
+        br.close();
     }
 }

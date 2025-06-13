@@ -21,5 +21,6 @@ public class Main {
             if(N>1)
                 System.out.println(N);
         }
+        br.close();
     }
 }

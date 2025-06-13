@@ -30,7 +30,7 @@ public class Main {
             System.out.println(sum);
             System.out.println(min);
         }
-
+        br.close();
     }
     //에라토스테네스의 체 구현 함수 (소수 판별 알고리즘)
     //소수는 약수로 판단하는데, 약수는 해당 수의 제곱근을 기준으로 대칭을 이룬다. (12 = 1,2,3, 4,6,12)

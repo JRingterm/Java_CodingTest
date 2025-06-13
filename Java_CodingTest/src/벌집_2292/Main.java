@@ -20,5 +20,6 @@ public class Main {
             }
             count += 1;
         }
+        br.close();
     }
 }

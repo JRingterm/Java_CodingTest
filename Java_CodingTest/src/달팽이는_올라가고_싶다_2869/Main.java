@@ -22,6 +22,7 @@ public class Main {
         else
             System.out.println((V-A) / (A-B) + 1); //낮에 정상에 도착하면 끝.
 
+        br.close();
 //        시간초과
 //        while(true){
 //            sum += A;

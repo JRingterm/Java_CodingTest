@@ -24,5 +24,7 @@ public class Main {
         //최대, 최소의 x,y값만 알면 됨.
         int result =(Collections.max(x) - Collections.min(x)) * (Collections.max(y) - Collections.min(y));
         System.out.println(result);
+
+        br.close();
     }
 }

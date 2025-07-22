@@ -12,5 +12,6 @@ public class Main {
         System.out.println(n);
         //n번 수행되므로 최고차항의 차수는 1이다.
         System.out.println(1);
+        br.close();
     }
 }

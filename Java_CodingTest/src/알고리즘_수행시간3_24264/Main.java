@@ -14,5 +14,6 @@ public class Main {
         System.out.println(n*n);
         //n^2의 최고차항의 차수는 2이다.
         System.out.println(2);
+        br.close();
     }
 }

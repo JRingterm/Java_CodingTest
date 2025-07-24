@@ -1,4 +1,4 @@
-package 알고리즘_수행시간4_24265;
+package 알고리즘의_수행시간4_24265;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -35,5 +35,6 @@ public class Main {
         for(int result : count){
             System.out.print(result + " ");
         }
+        br.close();
     }
 }
